@@ -16,7 +16,6 @@ Or
 yarn add libiban
 ```
 
-```
 
 ## Usage
 
